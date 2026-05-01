@@ -48,3 +48,48 @@
     [span_38](start_span)[span_39](start_span)"license_and_terms": "All documents, mathematical laws, structural matrices, and Python/Colab computational models are proprietary[span_38](end_span)[span_39](end_span). Unauthorized use, replication, or adoption of the SIT frameworks, Tab'een processes, or associated equations without direct attribution to Wasfi Ahmed Mohammed Al-Shehadeh is strictly prohibited."
   }
 }
+
+
+{
+  "intellectual_property_registry": {
+    "entity": "Wasfi Ahmed Mohamed Al-shehadeh",
+    "projects": [
+      {
+        "project_name": "Sovereign Energy System: WAM-2026",
+        "technical_identifier": "WASI-2026",
+        "document_type": "Technical Framework / Multi-Array Nano-Fusion Reactor",
+        "author": "Wasfi Ahmed Mohamed Al-shehadeh",
+        "registration_date": "April 30, 2026",
+        "copyright_status": "Secured under Sovereign Energy Net",
+        "core_innovations": [
+          "Multi-Array Nano-Fusion Core",
+          "Boron-Nitride Nanotube (BNNT) composite containment",
+          "Liquid Lithium-Lead eutectic (LiPb) cooling interface"
+        ],
+        "operational_metrics": {
+          "total_net_output": "2.20 Watts (30 MA)",
+          "jet_velocity": "Mach 2.1",
+          "structural_lifespan": "100+ Years"
+        },
+        "source": "WAM-2026 Technical Document"
+      },
+      {
+        "project_name": "Advanced Structural Modeling of Manganese Carbonitride",
+        "reference_id": "WAM-2025-MNCN-STRUCT-01",
+        "document_type": "Atomic Synthesis Research",
+        "author": "Wasfi Ahmed Mohammed Shehadeh",
+        "registration_date": "December 17, 2025",
+        "copyright_claims": "Copyright 2025 Wasfi Ahmed Mohammed Shehadeh. All Rights Reserved.",
+        "computing_rights": "Google Colab Proprietary Logic",
+        "theoretical_foundation": "Structural Physicality (Structure precedes energy dynamics)",
+        "key_components": [
+          "Carbon Nitride Encapsulation",
+          "Manganese (Mn) atomic core configuration",
+          "AI-guided scaling factor (λ) for hyper-variable cubic envelopes"
+        ],
+        "source": "WAM-2025-MNCN Research Paper"
+      }
+    ],
+    "sovereignty_declaration": "All proprietary computational models and encryption protocols are secured to ensure intellectual property and operational integrity."
+  }
+}
