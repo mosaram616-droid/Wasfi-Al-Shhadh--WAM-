@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "وصفي الشهادة - WAM"
+authors:
+  - family-names: "الشحادة"
+    given-names: "وصفي أحمد محمد"
+version: "5.1.3"
+date-released: 2026-05-15
+url: "https://github.com/mosaram616-droid/Wasfi-Al-Shhadh--WAM-"
+license: AGPL-3.0
