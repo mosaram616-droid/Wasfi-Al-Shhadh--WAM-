@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "وصفي-الشهادة--WAM-"
+authors:
+  - family-names: "جونسون"
+    given-names: "جو"
+version: "5.1.3"
+date-released: 2026-05-15
+url: "https://github.com/mosaram616-droid/Wasfi-Al-Shhadh--WAM-"
